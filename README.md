@@ -1,66 +1,80 @@
-# Apex planet internship task 5
-📊 Task 5 – Capstone Integration & Portfolio Finalisation
-📌 Project Overview
-This task focused on integrating all previous work into a single portfolio project. The complete data analytics workflow was documented and organized, including data cleaning, exploratory data analysis (EDA), SQL analysis, Power BI dashboard development, and business insights. The project was prepared for presentation and GitHub portfolio submission.
+# Apex planet internship task 5#
+📊 Task 5: Capstone Integration & Portfolio Finalisation
 
-🎯 Objectives
-Integrate all internship tasks into one complete project.
-Create a professional GitHub portfolio.
-Organize reports, dashboards, SQL scripts, and documentation.
-Present business insights in a structured format.
-Demonstrate an end-to-end Data Analytics workflow.
+## 📌 Overview
+This task focused on integrating all completed internship tasks into a single capstone project and preparing a professional GitHub portfolio. The project demonstrates the complete Data Analytics workflow, starting from data cleaning and exploration to dashboard development, statistical validation, and data storytelling.
 
-🛠 Tools Used
-Microsoft Excel
-SQL
-Power BI
-GitHub
-Microsoft Word
+---
 
-📂 Project Structure
+## 🎯 Objectives
+- Integrate all completed internship tasks into one project.
+- Organize reports, datasets, SQL scripts, and dashboard files.
+- Create a professional GitHub portfolio.
+- Document the complete project workflow.
+- Showcase end-to-end Data Analytics skills.
+
+---
+
+## 🛠️ Tools & Technologies
+- Microsoft Excel
+- SQL
+- Power BI
+- GitHub
+- Microsoft Word
+
+---
+
+## 📂 Project Components
+- Data Cleaning & Data Wrangling
+- Exploratory Data Analysis (EDA)
+- Descriptive Statistics
+- SQL Business Queries
+- Correlation Analysis
+- Dashboard Development
+- KPI Analysis
+- Data Storytelling
+- Statistical Validation
+- Project Documentation
+
+---
+
+## 📁 Repository Structure
+
+```text
 Task 1 - Data Immersion & Wrangling
-Task 2 - Exploratory Data Analysis (EDA)
-Task 3 - Deep-Dive Analysis & Dashboard
+Task 2 - Exploratory Data Analysis
+Task 3 - Deep-Dive Analysis & Interactive Dashboarding
 Task 4 - Data Storytelling & Statistical Validation
-Task 5 - Final Portfolio & Documentation
+Task 5 - Capstone Integration & Portfolio Finalisation
 Reports
-Dashboard Screenshots
-SQL Queries
+Power BI Dashboard
+SQL Scripts
+Dataset
 README Files
+```
 
-✅ Work Completed
-Integrated all internship tasks into one portfolio.
-Organized datasets and documentation.
-Added EDA reports and statistical analysis.
-Included SQL queries and business questions.
-Added Power BI dashboard screenshots.
-Documented project methodology and findings.
-Uploaded all project files to GitHub.
+---
 
-📈 Key Skills Demonstrated
-Data Cleaning
-Data Wrangling
-Exploratory Data Analysis
-SQL Query Writing
-Data Visualization
-Dashboard Development
-KPI Analysis
-Business Intelligence
-Data Storytelling
-GitHub Documentation
+## 📈 Skills Demonstrated
+- Data Cleaning
+- Data Wrangling
+- Data Analysis
+- SQL Query Writing
+- Exploratory Data Analysis (EDA)
+- Dashboard Development
+- KPI Creation
+- Business Intelligence
+- Data Storytelling
+- GitHub Documentation
 
-📊 Project Outcome
-The final portfolio demonstrates a complete Data Analytics workflow from raw data preparation to business insight generation. It highlights technical skills in Excel, SQL, Power BI, and GitHub while presenting data-driven recommendations through interactive dashboards and professional documentation.
+---
 
-📁 Repository Contents
-Cleaned Dataset
-Data Dictionary
-EDA Report
-SQL Queries
-Dashboard Images
-Project Reports
-README Documentation
+## ✅ Outcome
+The capstone project successfully combines all internship tasks into a complete Data Analytics portfolio. The project demonstrates practical knowledge of Excel, SQL, Power BI, and GitHub while presenting meaningful business insights through interactive dashboards and analytical reports.
 
-📌 Conclusion
-This capstone project successfully combined all internship tasks into a professional analytics portfolio. It showcases practical experience in data analysis, visualization, reporting, and business decision support, making it suitable for demonstrating end-to-end Data Analytics skills.
+---
+
+## 📌 Conclusion
+This project represents an end-to-end Data Analytics workflow, from preparing raw data to generating business insights and interactive dashboards. It highlights analytical, technical, and documentation skills required for real-world business decision-making.
+
 
