@@ -1,80 +1,46 @@
 # Apex planet internship task 5#
-📊 Task 5: Capstone Integration & Portfolio Finalisation
+# Data Analyst Internship Portfolio
 
-## 📌 Overview
-This task focused on integrating all completed internship tasks into a single capstone project and preparing a professional GitHub portfolio. The project demonstrates the complete Data Analytics workflow, starting from data cleaning and exploration to dashboard development, statistical validation, and data storytelling.
+## About Me
+Hi, I'm Ikra. I am a Data Analyst Intern skilled in data cleaning, data analysis, SQL, Excel, Power BI and data visualization.
 
----
+## Internship Projects
 
-## 🎯 Objectives
-- Integrate all completed internship tasks into one project.
-- Organize reports, datasets, SQL scripts, and dashboard files.
-- Create a professional GitHub portfolio.
-- Document the complete project workflow.
-- Showcase end-to-end Data Analytics skills.
+### Task 1: Data Cleaning
+- Cleaned and prepared raw datasets
+- Handled missing values and duplicate records
+- Performed data quality checks
 
----
+### Task 2: Exploratory Data Analysis (EDA)
+- Performed univariate, bivariate and multivariate analysis
+- Created visualizations to identify patterns and trends
+- Generated meaningful insights
 
-## 🛠️ Tools & Technologies
-- Microsoft Excel
+### Task 3: SQL Analysis
+- Created SQL queries for business analysis
+- Answered analytical questions using data
+
+### Task 4: Power BI Dashboard
+- Created interactive dashboards
+- Developed KPIs and business insights
+- Performed customer and sales analysis
+
+### Task 5: Capstone Project
+- Completed end-to-end data analytics project
+- Created dashboard, reports and data storytelling presentation
+
+## Tools & Skills
+- Excel
 - SQL
 - Power BI
+- Data Visualization
+- Exploratory Data Analysis
 - GitHub
-- Microsoft Word
 
----
+## Portfolio Website
+My portfolio is hosted using GitHub Pages.
 
-## 📂 Project Components
-- Data Cleaning & Data Wrangling
-- Exploratory Data Analysis (EDA)
-- Descriptive Statistics
-- SQL Business Queries
-- Correlation Analysis
-- Dashboard Development
-- KPI Analysis
-- Data Storytelling
-- Statistical Validation
-- Project Documentation
-
----
-
-## 📁 Repository Structure
-
-```text
-Task 1 - Data Immersion & Wrangling
-Task 2 - Exploratory Data Analysis
-Task 3 - Deep-Dive Analysis & Interactive Dashboarding
-Task 4 - Data Storytelling & Statistical Validation
-Task 5 - Capstone Integration & Portfolio Finalisation
-Reports
-Power BI Dashboard
-SQL Scripts
-Dataset
-README Files
-```
-
----
-
-## 📈 Skills Demonstrated
-- Data Cleaning
-- Data Wrangling
-- Data Analysis
-- SQL Query Writing
-- Exploratory Data Analysis (EDA)
-- Dashboard Development
-- KPI Creation
-- Business Intelligence
-- Data Storytelling
-- GitHub Documentation
-
----
-
-## ✅ Outcome
-The capstone project successfully combines all internship tasks into a complete Data Analytics portfolio. The project demonstrates practical knowledge of Excel, SQL, Power BI, and GitHub while presenting meaningful business insights through interactive dashboards and analytical reports.
-
----
-
-## 📌 Conclusion
-This project represents an end-to-end Data Analytics workflow, from preparing raw data to generating business insights and interactive dashboards. It highlights analytical, technical, and documentation skills required for real-world business decision-making.
+## Conclusion
+This repository showcases my data analytics projects, dashboards and analytical skills developed during my internship.
 
 
