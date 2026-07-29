@@ -1,3 +1,4 @@
+# Apex planet internship task 5
 📊 Task 5 – Capstone Integration & Portfolio Finalisation
 📌 Project Overview
 This task focused on integrating all previous work into a single portfolio project. The complete data analytics workflow was documented and organized, including data cleaning, exploratory data analysis (EDA), SQL analysis, Power BI dashboard development, and business insights. The project was prepared for presentation and GitHub portfolio submission.
@@ -54,4 +55,4 @@ Project Reports
 README Documentation
 📌 Conclusion
 This capstone project successfully combined all internship tasks into a professional analytics portfolio. It showcases practical experience in data analysis, visualization, reporting, and business decision support, making it suitable for demonstrating end-to-end Data Analytics skills.
-# Apexplanet-internship-task-5-
+
